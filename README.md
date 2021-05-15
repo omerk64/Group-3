@@ -23,7 +23,8 @@ We will study how departure delay is affected by the independent variables such 
 
 Instruction to run the code
 
-1.Download all datasets
+1.Download all datasets including airlines.csv,airports.csv,humidity.csv,pressure.csv, temperature.csv,wind_speed.csv
+2.Run code.
 
 
 
