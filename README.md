@@ -15,7 +15,7 @@ The data covers non stop scheduled-service flights between 322 airports within t
 
 Descriptive Analytics 
 
-We will begin with descriptive analytics to answer the question “What has happened?“ with flight delays in 2015. After cleaning the dataset, we will use data visualization to showcase the trend of average delay in minutes for each of the airports and airlines per day or month. In addition, we will map which airports are the busiest and at which time of the year. We will showcase which airline has the most flights and which region they cover. 
+We will begin with descriptive analytics to answer the question “What has happened?“ with flight delays in 2015. After cleaning the dataset, we will compute the average delay in minutes for each of the airports and airlines per day or month. In addition, we will map which airports are the busiest and at which time of the year. We will showcase which airline has the most flights and which region they cover. 
 
  Multiple regression model  
  
