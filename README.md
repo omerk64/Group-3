@@ -21,14 +21,17 @@ We will begin with descriptive analytics to answer the question “What has happ
  
 We will study how departure delay is affected by the independent variables such as wind, tempearture, humidity and pressure. For the departure time we want to see if there is a relationship between dweather and departure delay. For example, flights in the winter might have higher departure delay or the other way around. Even though a flight might have a departure delay, it could make up the time during the flight and still arrive on time. So, it will be interesting to study if there is a relationship between them. 
 
-Instruction to run the code
-
-1.Download all datasets including airlines.csv,airports.csv,humidity.csv,pressure.csv, temperature.csv,wind_speed.csv
-2.Run code.
 
 
+Instructions to run .py file
 
+In python
 
+1. Download all datasets in the same folder as .py file (airlines.csv,airports.csv,humidity.csv,pressure.csv, temperature.csv,wind_speed.csv)
+
+2. Import all libraries listed in the .py file
+
+3. Run code
 
 
 
