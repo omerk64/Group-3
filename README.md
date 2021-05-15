@@ -21,6 +21,10 @@ We will begin with descriptive analytics to answer the question “What has happ
  
 We will study how departure delay is affected by the independent variables such as wind, tempearture, humidity and pressure. For the departure time we want to see if there is a relationship between dweather and departure delay. For example, flights in the winter might have higher departure delay or the other way around. Even though a flight might have a departure delay, it could make up the time during the flight and still arrive on time. So, it will be interesting to study if there is a relationship between them. 
 
+Instruction to run the code
+
+1.Download all datasets
+
 
 
 
